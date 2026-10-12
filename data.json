@@ -3,5 +3,99 @@
         "name": "Arceus V",
         "type": "Legendary",
         "HP": 220,
-    }
+        "image": "arceus.webp",
+        "abilities": "Trinity Charge & Power edge"
+    },
+     {
+        "name": "Blastoise EX",
+        "type": "Water",
+        "HP": 180,
+        "image": "blastoise.webp",
+        "abilities": "Rapid spin & Splash bomb"
+    },
+     {
+        "name": "Charizard EX",
+        "type": "Fire/Flying",
+        "HP": 330,
+        "image": "charizard.webp",
+        "abilities": "Infernal reign & Burning darkness"
+    },
+     {
+        "name": "Mega Darkrai Ex",
+        "type": "Dark",
+        "HP": 280,
+        "image": "darkrai.webp",
+        "abilities": "Dusk raid & Abyss eye"
+    },
+     {
+        "name": "Ash-Greninja EX",
+        "type": "Water",
+        "HP": 170,
+        "image": "greninja.webp",
+        "abilities": "Dancing shuriken & Ninja blade"
+    },
+     {
+        "name": "Lugia Legend",
+        "type": "Water",
+        "HP": 130,
+        "image": "lugia.webp",
+        "abilities": "Ocean grow & Elemental blast"
+    },
+     {
+        "name": "Mewtwo",
+        "type": "Psychic",
+        "HP": 130,
+        "image": "mewtwo.webp",
+        "abilities": "Reflective barrier & Psyslash"
+    },
+     {
+        "name": "Pikachu",
+        "type": "Electric",
+        "HP": 60,
+        "image": "pikachu.webp",
+        "abilities": "Pika punch & Double Voltage"
+    },
+     {
+        "name": "Rayquaza",
+        "type": "Dragon",
+        "HP": 120,
+        "image": "rayquaza.webp",
+        "abilities": "Dragon pulse & Shred"
+    },
+     {
+        "name": "Umbreon",
+        "type": "Dark",
+        "HP": 110,
+        "image": "umbreon.webp",
+        "abilities": "Blideside & Moon mirage"
+    },
+     {
+            "name": "Venusaur Ex",
+            "type": "Grass/Poison",
+            "HP": 180,
+            "image": "venusaur.webp",
+            "abilities": "Poison power & Jungle hammer"
+        },
+         {
+            "name": "Giratina Ex",
+            "type": "Dragon",
+            "HP": 170,
+            "image": "giratina.webp",
+            "abilities": "Renegade pulse & Chaos wheel"
+        },
+         {
+            "name": "Gardevoir Vmax",
+            "type": "Grass",
+            "HP": 320,
+            "image": "gardevoir.webp",
+            "abilities": "Max cure"
+        },
+         {
+            "name": "Blaziken",
+            "type": "Fire",
+            "HP": 320,
+            "image": "blaziken.webp",
+            "abilities": " Clutch & Max blaze"
+        }
+       
 ]
