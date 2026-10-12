@@ -55,13 +55,13 @@ function displayCards(cards) {
         const hp = document.createElement('p');
         hp.textContent = 'HP: ' + cards[i].HP;
 
-        const description = document.createElement('p');
-        description.textContent = cards[i].description;
+        const abilities = document.createElement('p');
+        abilities.textContent = 'Abilities: ' + cards[i].abilities;
 
         cardBack.appendChild(name);
         cardBack.appendChild(type);
         cardBack.appendChild(hp);
-        cardBack.appendChild(description);
+        cardBack.appendChild(abilities);
 
         // Put the front and back inside the card
         cardInner.appendChild(cardFront);
