@@ -3,15 +3,29 @@
 
 <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card Deck</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
 </head>
 
 <body>
-    <h1>Gabriel's Card Deck</h1>
-    <div class="deck"></div>
+    <header class = "page-header">
+        <h1>Gabriel's Pokemon Deck</h1>
+        <p>Click a card to view its abilities.</p>
+    </header>
 
-    <script src="script.js"></script>
+    <main>
+        <section class="deck" id="deck" aria-label="Pokemon card Collection">
+            <p class="loading">Loading cards...</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Gabriel's Pokemon Deck</p>
+    </footer>
+
+    
 </body>
 
 </html>

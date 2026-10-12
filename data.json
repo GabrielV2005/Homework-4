@@ -1,7 +1,7 @@
 [
     {
-        "name": "Card Name",
-        "description": "Card description goes here.",
-        "image": "images/placeholder.png"
+        "name": "Arceus V",
+        "type": "Legendary",
+        "HP": 220,
     }
 ]
