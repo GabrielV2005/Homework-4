@@ -15,7 +15,7 @@
     },
      {
         "name": "Charizard EX",
-        "type": "Fire/Flying",
+        "type": "Fire",
         "HP": 330,
         "image": "charizard.webp",
         "abilities": "Infernal reign & Burning darkness"
@@ -71,7 +71,7 @@
     },
      {
             "name": "Venusaur Ex",
-            "type": "Grass/Poison",
+            "type": "Grass",
             "HP": 180,
             "image": "venusaur.webp",
             "abilities": "Poison power & Jungle hammer"
