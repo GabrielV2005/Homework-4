@@ -68,7 +68,7 @@ function displayCards(cards) {
         cardInner.appendChild(cardBack);
         card.appendChild(cardInner);
 
-        // Flip the card when clicked
+        // Flips the card
         card.addEventListener('click', function () {
             card.classList.toggle('flipped');
         });

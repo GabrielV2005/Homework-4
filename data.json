@@ -15,7 +15,7 @@
     },
      {
         "name": "Charizard EX",
-        "type": "Fire",
+        "type": "Dark",
         "HP": 330,
         "image": "charizard.webp",
         "abilities": "Infernal reign & Burning darkness"
