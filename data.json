@@ -85,7 +85,7 @@
         },
          {
             "name": "Gardevoir Vmax",
-            "type": "Grass",
+            "type": "Psychic",
             "HP": 320,
             "image": "gardevoir.webp",
             "abilities": "Max cure"
